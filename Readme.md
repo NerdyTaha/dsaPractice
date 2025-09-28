@@ -1,7 +1,7 @@
 ## Hello, This is Taha's repo for dsaPractice. 
 ### There are different folders for different types of DS and Algo's. Links for questions are in readme(here) and folders have solutions.
-{links can be from leetcode, hackerrank, codeforces(lol), or codechef or sumthing}
-Notes: https://pickle-shop-9e8.notion.site/DSA-practice-266283fc82a9801ea431dd55f2053d32?source=copy_link
+- {links can be from leetcode, hackerrank, codeforces(lol), or codechef or sumthing}
+- Notes: https://pickle-shop-9e8.notion.site/DSA-practice-266283fc82a9801ea431dd55f2053d32?source=copy_link
 
 # ALGORITHMS
 ### simple, implementation
