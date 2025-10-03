@@ -6,7 +6,7 @@
 # ALGORITHMS
 ### simple, implementation
 1. simple array sum: https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true 
-2. container with most array: https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=array 
+2. 
 ### strings
 1. 
 2. 
@@ -24,7 +24,7 @@
 # DATA STRUCTURES
 ### Arrays
 1. Two sum: https://leetcode.com/problems/two-sum/ 
-2. 
+2. container with most water: https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=array 
 ### Linked Lists 
 1. 
 2. 
